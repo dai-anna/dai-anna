@@ -2,7 +2,7 @@
 ### I'm Anna Dai 🤓
 Data Science Masters Student | Duke MIDS Class of 2023
 
-Ex-Tax Consultant | EY
+Ex-Tax Consultant @ EY
 
 
 <img width=15 src="https://user-images.githubusercontent.com/89488845/136603304-fd578bfc-7f62-42a7-bc0b-dd073863b83a.png"> [LinkedIn](https://www.linkedin.com/in/dai-anna/)
