@@ -1,13 +1,14 @@
 ## Heyho 👋
 ### I'm Anna Dai 🤓
-Data Science Masters Student (MIDS '23) @ <img width=40 src="https://user-images.githubusercontent.com/89488845/147893156-29b1d4e6-3753-466d-8582-f5fabfd6c48c.png">
 
-Ex-Consultant @ <img width=20 src="https://user-images.githubusercontent.com/89488845/147893110-bf068367-a1da-43bb-a6ad-6732a5e47913.png">
+<img width=180 align="right" src="https://user-images.githubusercontent.com/89488845/147893186-6047ac49-0e31-40d2-92a0-d8970c6760b8.png">
 
-AWS Certified Solutions Architect (Associate)  <img width=32 src="https://user-images.githubusercontent.com/89488845/147893227-946c94ac-e0ae-4b63-bc56-70b0f7976583.png">
+* Data Science Masters Student (MIDS '23) @ <img width=40 src="https://user-images.githubusercontent.com/89488845/147893156-29b1d4e6-3753-466d-8582-f5fabfd6c48c.png">
 
+* Ex-Consultant @ <img width=20 src="https://user-images.githubusercontent.com/89488845/147893110-bf068367-a1da-43bb-a6ad-6732a5e47913.png">
 
-<img width=180 align="center" src="https://user-images.githubusercontent.com/89488845/147893186-6047ac49-0e31-40d2-92a0-d8970c6760b8.png">
+* AWS Certified Solutions Architect (Associate)  <img width=32 src="https://user-images.githubusercontent.com/89488845/147893227-946c94ac-e0ae-4b63-bc56-70b0f7976583.png">
+
 
 
 Check out my:
