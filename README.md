@@ -4,14 +4,17 @@
 
 <img width=210 align="right" src="https://user-images.githubusercontent.com/89488845/147893186-6047ac49-0e31-40d2-92a0-d8970c6760b8.png">
 
-* Data Science Intern @ <img width=40 src="https://user-images.githubusercontent.com/89488845/178806176-d6d0342e-756b-442a-abbf-93578fca1d74.png">
- 
+* Master’s Valorisation Intern @ <img width=40 src="https://github.com/dai-anna/dai-anna/assets/89488845/5402f629-46b3-4ee9-a21d-7bf68cab3ea5">
 
-* Data Science Masters Student (MIDS '23) @ <img width=40 src="https://user-images.githubusercontent.com/89488845/147893156-29b1d4e6-3753-466d-8582-f5fabfd6c48c.png">
+* Data Science Master's (MIDS '23), Teaching and Research Assistant @ <img width=40 src="https://user-images.githubusercontent.com/89488845/147893156-29b1d4e6-3753-466d-8582-f5fabfd6c48c.png">
+
+* Data Science Intern @ <img width=40 src="https://user-images.githubusercontent.com/89488845/178806176-d6d0342e-756b-442a-abbf-93578fca1d74.png">
+
+* AWS Certified Solutions Architect (Associate)  <img width=32 src="https://user-images.githubusercontent.com/89488845/147893227-946c94ac-e0ae-4b63-bc56-70b0f7976583.png">
 
 * Ex-Consultant @ <img width=20 src="https://user-images.githubusercontent.com/89488845/147893110-bf068367-a1da-43bb-a6ad-6732a5e47913.png">
 
-* AWS Certified Solutions Architect (Associate)  <img width=32 src="https://user-images.githubusercontent.com/89488845/147893227-946c94ac-e0ae-4b63-bc56-70b0f7976583.png">
+* Business Economics Bachelor's ('16) @  <img width=40 src="https://github.com/dai-anna/dai-anna/assets/89488845/5a4044ed-0294-4a48-8d62-478ee69eff97">
 
 
 Check out my:
