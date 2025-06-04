@@ -2,9 +2,10 @@
 ### I'm Anna Dai 🤓
 
 
-<img width=210 align="right" src="https://user-images.githubusercontent.com/89488845/147893186-6047ac49-0e31-40d2-92a0-d8970c6760b8.png">
 
-* Master’s Valorisation Intern @ <img width=40 src="https://github.com/dai-anna/dai-anna/assets/89488845/5402f629-46b3-4ee9-a21d-7bf68cab3ea5">
+* Data Scientist @ <img width=60 src="https://github.com/user-attachments/assets/4a7914f1-d6be-473d-9591-7d9282e629af">
+
+* Master’s Valorisation @ <img width=40 src="https://github.com/dai-anna/dai-anna/assets/89488845/5402f629-46b3-4ee9-a21d-7bf68cab3ea5">
 
 * Data Science Master's (MIDS '23), Teaching and Research Assistant @ <img width=40 src="https://user-images.githubusercontent.com/89488845/147893156-29b1d4e6-3753-466d-8582-f5fabfd6c48c.png">
 
@@ -24,7 +25,7 @@ Check out my:
 * <img width=18 src="https://user-images.githubusercontent.com/89488845/152584137-d178d899-cf2e-4d31-85f3-ef14ac2e22b1.png"> [Personal Website](https://dai-anna.github.io)
 
 
-💡 I am always looking for inspiration to work on new projects, so feel free to reach out 💡  
+💡 I am always looking for inspiration to work on new personal projects, so feel free to reach out 💡  
 
 Some things I've been working on since my pivot into tech! 👇
 
